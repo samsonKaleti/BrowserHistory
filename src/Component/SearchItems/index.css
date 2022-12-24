@@ -1,0 +1,39 @@
+li {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  list-style: none;
+  margin: 20px;
+  justify-content: space-between;
+}
+
+.list-Items {
+  display: flex;
+}
+.timeAccessed {
+  font-family: 'roboto';
+  font-weight: bold;
+  margin-left: 40px;
+}
+
+.logoUrl {
+  height: auto;
+  width: auto;
+  margin-left: 40px;
+}
+.title {
+  font-family: 'roboto';
+  margin-left: 40px;
+}
+.domainUrl {
+  font-family: 'roboto';
+  margin-left: 20px;
+}
+/* .buttonContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+} */
+/* .button {
+  margin-left: 30px;
+} */
